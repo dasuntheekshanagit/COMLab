@@ -1,2 +1,4 @@
 # COM Lab
-Numpy
+
+● Numpy
+● Matpolt
