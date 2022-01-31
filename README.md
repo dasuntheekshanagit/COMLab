@@ -1,6 +1,6 @@
 # COM Lab
 
-● Numpy
-● Matpolt
+* Numpy
+* Matpolt
 * OOP
 * Data stucture
