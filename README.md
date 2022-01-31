@@ -2,3 +2,5 @@
 
 ● Numpy
 ● Matpolt
+* OOP
+* Data stucture
